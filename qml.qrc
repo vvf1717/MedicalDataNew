@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TablePage.qml</file>
+        <file>CardPage.qml</file>
+    </qresource>
+</RCC>
